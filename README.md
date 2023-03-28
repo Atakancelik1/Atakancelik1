@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atakancelik1
 - 👀 I’m interested in python
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 📫 How to reach me atakancelik2000@hotmail.com
 
 <!---
